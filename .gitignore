@@ -7,7 +7,16 @@ DerivedData/
 xcuserdata/
 *.xcworkspace
 *.xcuserstate
-
+*.xcodeproj/*.pbxuser
+*.xcodeproj/*.perspectivev3
+*.xcodeproj/*.mode1v3
+*.xcodeproj/*.tm_build_errors
+*.xcodeproj/*.xcworkspacedata
+*.xcodeproj/*.xcuserstate
+xcuserdata
+*.xcuserstate
+*.xcworkspace
+*.xcbkptlist
 # Xcode
 .DS_Store
 */build/*
